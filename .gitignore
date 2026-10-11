@@ -12,6 +12,7 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+NoteBooks/
 
 # Data pribadi
 Data/
@@ -22,6 +23,7 @@ Data/
 # Streamlit secrets
 .streamlit/secrets.toml
 
+D2.py
 # OS
 .DS_Store
 Thumbs.db
